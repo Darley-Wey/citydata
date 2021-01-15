@@ -1,0 +1,8 @@
+README.md
+setup.py
+citydata/__init__.py
+citydata/citydata.py
+citydata.egg-info/PKG-INFO
+citydata.egg-info/SOURCES.txt
+citydata.egg-info/dependency_links.txt
+citydata.egg-info/top_level.txt
