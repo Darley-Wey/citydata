@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="citydata",
-    version="0.0.1",
+    version="0.0.4",
     author="Darley-Wey",
     author_email="darley.wey@gmail.com",
     description="get the Chinese city data",
@@ -18,5 +18,5 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.6',
+    python_requires='>=3.8',
 )
